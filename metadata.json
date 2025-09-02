@@ -1,0 +1,5 @@
+{
+  "name": "Unified Messaging Hub",
+  "description": "A clean, beginner-friendly app that unifies personal and business communication channels, featuring AI-powered message prioritization, summarization, and reply suggestions using the Gemini API.",
+  "requestFramePermissions": []
+}
